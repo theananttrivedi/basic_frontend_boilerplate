@@ -1,0 +1,262 @@
+:root {
+  --gray: 142, 142, 147;
+  --gray2: 174, 174, 178;
+  --gray3: 199, 199, 204;
+  --gray4: 209, 209, 214;
+  --gray5: 229, 229, 234;
+  --gray6: 242, 242, 247;
+  --gray-dark: 142, 142, 147;
+  --gray2-dark: 99, 99, 102;
+  --gray3-dark: 72, 72, 74;
+  --gray4-dark: 58, 58, 60;
+  --gray5-dark: 44, 44, 46;
+  --gray6-dark: 28, 28, 30;
+  --red: 255, 59, 48;
+  --red-dark: 255, 69, 58;
+  --orange: 255, 149, 0;
+  --orange-dark: 255, 159, 10;
+  --yellow: 255, 204, 0;
+  --yellow-dark: 255, 214, 10;
+  --green: 52, 199, 89;
+  --green-dark: 48, 209, 88;
+  --mint: 0, 199, 190;
+  --mint-dark: 102, 212, 207;
+  --teal: 48, 176, 199;
+  --teal-dark: 64, 200, 224;
+  --cyan: 50, 173, 230;
+  --cyan-dark: 100, 210, 255;
+  --blue: 0, 122, 255;
+  --blue-dark: 10, 132, 255;
+  --indigo: 88, 86, 214;
+  --indigo-dark: 94, 92, 230;
+  --purple: 175, 82, 222;
+  --purple-dark: 191, 90, 242;
+  --pink: 255, 45, 85;
+  --pink-dark: 255, 55, 95;
+  --brown: 162, 132, 94;
+  --brown-dark: 172, 142, 104;
+}
+
+/* Background Classes */
+.bg-gray {
+  background-color: rgba(var(--gray), 1);
+}
+.bg-gray2 {
+  background-color: rgba(var(--gray2), 1);
+}
+.bg-gray3 {
+  background-color: rgba(var(--gray3), 1);
+}
+.bg-gray4 {
+  background-color: rgba(var(--gray4), 1);
+}
+.bg-gray5 {
+  background-color: rgba(var(--gray5), 1);
+}
+.bg-gray6 {
+  background-color: rgba(var(--gray6), 1);
+}
+.bg-red {
+  background-color: rgba(var(--red), 1);
+}
+.bg-orange {
+  background-color: rgba(var(--orange), 1);
+}
+.bg-yellow {
+  background-color: rgba(var(--yellow), 1);
+}
+.bg-green {
+  background-color: rgba(var(--green), 1);
+}
+.bg-mint {
+  background-color: rgba(var(--mint), 1);
+}
+.bg-teal {
+  background-color: rgba(var(--teal), 1);
+}
+.bg-cyan {
+  background-color: rgba(var(--cyan), 1);
+}
+.bg-blue {
+  background-color: rgba(var(--blue), 1);
+}
+.bg-indigo {
+  background-color: rgba(var(--indigo), 1);
+}
+.bg-purple {
+  background-color: rgba(var(--purple), 1);
+}
+.bg-pink {
+  background-color: rgba(var(--pink), 1);
+}
+.bg-brown {
+  background-color: rgba(var(--brown), 1);
+}
+
+/* Background Dark Classes */
+.bg-gray-dark {
+  background-color: rgba(var(--gray-dark), 1);
+}
+.bg-gray2-dark {
+  background-color: rgba(var(--gray2-dark), 1);
+}
+.bg-gray3-dark {
+  background-color: rgba(var(--gray3-dark), 1);
+}
+.bg-gray4-dark {
+  background-color: rgba(var(--gray4-dark), 1);
+}
+.bg-gray5-dark {
+  background-color: rgba(var(--gray5-dark), 1);
+}
+.bg-gray6-dark {
+  background-color: rgba(var(--gray6-dark), 1);
+}
+.bg-red-dark {
+  background-color: rgba(var(--red-dark), 1);
+}
+.bg-orange-dark {
+  background-color: rgba(var(--orange-dark), 1);
+}
+.bg-yellow-dark {
+  background-color: rgba(var(--yellow-dark), 1);
+}
+.bg-green-dark {
+  background-color: rgba(var(--green-dark), 1);
+}
+.bg-mint-dark {
+  background-color: rgba(var(--mint-dark), 1);
+}
+.bg-teal-dark {
+  background-color: rgba(var(--teal-dark), 1);
+}
+.bg-cyan-dark {
+  background-color: rgba(var(--cyan-dark), 1);
+}
+.bg-blue-dark {
+  background-color: rgba(var(--blue-dark), 1);
+}
+.bg-indigo-dark {
+  background-color: rgba(var(--indigo-dark), 1);
+}
+.bg-purple-dark {
+  background-color: rgba(var(--purple-dark), 1);
+}
+.bg-pink-dark {
+  background-color: rgba(var(--pink-dark), 1);
+}
+.bg-brown-dark {
+  background-color: rgba(var(--brown-dark), 1);
+}
+
+/* Color Classes */
+.color-gray {
+  color: rgba(var(--gray), 1);
+}
+.color-gray2 {
+  color: rgba(var(--gray2), 1);
+}
+.color-gray3 {
+  color: rgba(var(--gray3), 1);
+}
+.color-gray4 {
+  color: rgba(var(--gray4), 1);
+}
+.color-gray5 {
+  color: rgba(var(--gray5), 1);
+}
+.color-gray6 {
+  color: rgba(var(--gray6), 1);
+}
+.color-red {
+  color: rgba(var(--red), 1);
+}
+.color-orange {
+  color: rgba(var(--orange), 1);
+}
+.color-yellow {
+  color: rgba(var(--yellow), 1);
+}
+.color-green {
+  color: rgba(var(--green), 1);
+}
+.color-mint {
+  color: rgba(var(--mint), 1);
+}
+.color-teal {
+  color: rgba(var(--teal), 1);
+}
+.color-cyan {
+  color: rgba(var(--cyan), 1);
+}
+.color-blue {
+  color: rgba(var(--blue), 1);
+}
+.color-indigo {
+  color: rgba(var(--indigo), 1);
+}
+.color-purple {
+  color: rgba(var(--purple), 1);
+}
+.color-pink {
+  color: rgba(var(--pink), 1);
+}
+.color-brown {
+  color: rgba(var(--brown), 1);
+}
+
+/* Color Dark Classes */
+.color-gray-dark {
+  color: rgba(var(--gray-dark), 1);
+}
+.color-gray2-dark {
+  color: rgba(var(--gray2-dark), 1);
+}
+.color-gray3-dark {
+  color: rgba(var(--gray3-dark), 1);
+}
+.color-gray4-dark {
+  color: rgba(var(--gray4-dark), 1);
+}
+.color-gray5-dark {
+  color: rgba(var(--gray5-dark), 1);
+}
+.color-gray6-dark {
+  color: rgba(var(--gray6-dark), 1);
+}
+.color-red-dark {
+  color: rgba(var(--red-dark), 1);
+}
+.color-orange-dark {
+  color: rgba(var(--orange-dark), 1);
+}
+.color-yellow-dark {
+  color: rgba(var(--yellow-dark), 1);
+}
+.color-green-dark {
+  color: rgba(var(--green-dark), 1);
+}
+.color-mint-dark {
+  color: rgba(var(--mint-dark), 1);
+}
+.color-teal-dark {
+  color: rgba(var(--teal-dark), 1);
+}
+.color-cyan-dark {
+  color: rgba(var(--cyan-dark), 1);
+}
+.color-blue-dark {
+  color: rgba(var(--blue-dark), 1);
+}
+.color-indigo-dark {
+  color: rgba(var(--indigo-dark), 1);
+}
+.color-purple-dark {
+  color: rgba(var(--purple-dark), 1);
+}
+.color-pink-dark {
+  color: rgba(var(--pink-dark), 1);
+}
+.color-brown-dark {
+  color: rgba(var(--brown-dark), 1);
+}
