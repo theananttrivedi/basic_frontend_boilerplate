@@ -12,6 +12,13 @@
 
 ### JS script file
 
+### JS utils
+
+- domutils.js
+  (Useful APIs for dom manipulation)
+- libraryutils.js
+  (Third party APIs specific libraries)
+
 ### JS Libraries:
 
 1. Three.min.js
