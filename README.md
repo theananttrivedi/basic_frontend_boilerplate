@@ -4,11 +4,12 @@
 
 ### CSS Style Sheet
 
-- Reset Sheet
-- Color Sheet
+- Reset Stylesheet
+- Color Stylesheet
   (Color Design System)
-- Utility Classes
+- Utility Classes Stylesheet
   (Basic utilities for fast development)
+- Slick Stylesheet
 
 ### JS script file
 
@@ -27,3 +28,4 @@
 4. party.min.js
 5. popper.min.js
 6. screenfull.min.js
+7. slick.min.js
