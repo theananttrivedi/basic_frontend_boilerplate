@@ -13,14 +13,14 @@
 
 ### JS files
 
-- ## JS utils
+- ### JS utils
 
 - domutils.js
   (Useful APIs for dom manipulation)
 - libraryutils.js
   (Third party APIs specific libraries)
 
-- ## JS Libraries:
+- ### JS Libraries:
 
 1. three.min.js
 2. GLTFLoader.js
