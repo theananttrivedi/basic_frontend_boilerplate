@@ -21,7 +21,9 @@
 
 ### JS Libraries:
 
-1. Three.min.js
+1. three.min.js
 2. GLTFLoader.js
-3. Scrollmagic.min.js
-4. Party.min.js
+3. scrollmagic.min.js
+4. party.min.js
+5. popper.min.js
+6. screenfull.min.js
