@@ -11,16 +11,16 @@
   (Basic utilities for fast development)
 - Slick Stylesheet
 
-### JS script file
+### JS files
 
-### JS utils
+- ## JS utils
 
 - domutils.js
   (Useful APIs for dom manipulation)
 - libraryutils.js
   (Third party APIs specific libraries)
 
-### JS Libraries:
+- ## JS Libraries:
 
 1. three.min.js
 2. GLTFLoader.js
